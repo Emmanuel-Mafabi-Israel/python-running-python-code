@@ -17,12 +17,12 @@ This is a simple Python application that prints a greeting message.
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/Emmanuel-Mafabi-Israel/python-running-python-code>
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd <repository-directory>
+    cd <https://github.com/Emmanuel-Mafabi-Israel/python-running-python-code>
     ```
 
 3. Install the dependencies using Pipenv:
